@@ -16,7 +16,7 @@ You can start adding your favorite recipes by using the
 #### How to use it
  You should use an API platform as **Postman** to use your recipe book.
 
-| Request         | Ingrédient      | Recipe                                  |
+| Request         | Ingredient      | Recipe                                  |
 | --------------- | --------------- | --------------------------------------- |
 | add |name, aisle | name, type, instructions, ingredients |
 | findAll | | |
